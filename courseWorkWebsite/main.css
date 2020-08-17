@@ -1,0 +1,186 @@
+body{
+    background-color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#header{
+    text-align: center; font-size: 40px;
+    border:black solid 2px;
+    padding: 40px;
+    margin: 40px;
+    background-color: salmon;
+    transition: background 5s;
+}
+#footer{
+    text-align: center;
+}
+
+
+.navbar1:hover {
+    background: wheat;
+    transition: ease-in-out;
+}
+.navbar2:hover {
+    background: wheat;
+    transition: ease-in-out;
+}
+.navbar3:hover {
+    background: wheat;
+    transition: ease-in-out;
+}
+.navbar4:hover {
+    background: wheat;
+    transition: ease-in-out;
+}
+
+.navbar1 {
+   
+    font-size: 30px;
+    padding: 15px;
+    background-color: salmon;
+    border:black solid 2px;
+    transition: background 5s;
+    
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.navbar2 {
+   
+    font-size: 30px;
+    padding: 15px;
+    background-color: salmon;
+    border:black solid 2px;
+    transition: background 5s;
+    
+ 
+}
+.navbar3 {
+   
+    font-size: 30px;
+    padding: 15px;
+    background-color: salmon;
+    
+    border:black solid 2px;
+    transition: background 5s;
+
+    
+}
+.navbar4 {
+   
+    font-size: 30px;
+    padding: 15px;
+    background-color: salmon;
+    
+    border:black solid 2px;
+    transition: background 5s;
+
+   
+}
+.siteIntro{
+    font-size: 20px;
+    padding: 10px;
+    margin-right: 40px;
+    margin-left: 10px;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-evenly;
+}
+.dda{
+    font-size: 20px;
+    padding: 10px;
+    margin-right: 40px;
+    margin-left: 10px;
+}
+
+.images{
+    
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.dogsFromWolves{
+    font-size: 20px;
+    padding: 10px;
+    margin-right: 40px;
+    margin-left: 10px;   
+}
+.popularBreeds{
+    font-size: 20px;
+    padding: 10px;
+    margin-right: 40px;
+    margin-left: 10px;   
+}
+
+.container3{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+}
+
+.container4{
+    display: flex;
+    flex-direction: row;
+    padding-left: 5px;
+}
+.container5{
+    display: flex;
+    flex-direction: row;
+   
+}
+.container6{
+    display: flex;
+    flex-direction: row;
+   
+}
+.container7{
+    display: flex;
+    flex-direction: row;
+   
+}
+.container8{
+    display: flex;
+    flex-direction: row;
+   
+}
+.container9{
+    display: flex;
+    flex-direction: row;
+   
+}
+.container10{
+    display: flex;
+    flex-direction: row;
+   
+}
+.container11{
+    display: flex;
+    flex-direction: row;
+   
+}
+.container12{
+    display: flex;
+    flex-direction: row;
+   
+}
+
+.container13{
+    display: flex;
+    flex-direction: row;
+   margin-left: 80px;
+}
+
+.navButton{
+margin-left: 950px;
+padding-top: 40px;
+
+}
+.navButton2{
+    margin-left: 1000px;
+    padding-top: 40px;
+    
+    }
